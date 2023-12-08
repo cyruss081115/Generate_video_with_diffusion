@@ -2,16 +2,17 @@
 Research project on turning a stable diffusion model to generate coherent video. Still in progress!  
 ### Early Stage Results
 Prompt: A warm afternoon in Monet's Garden, photorealistic  
-![me](https://github.com/cyruss081115/Generate_video_with_diffusion/blob/main/gif/a_warm_afternoon_at_monet's_garden.gif)
+<img src="https://github.com/cyruss081115/Generate_video_with_diffusion/blob/main/gif/a_warm_afternoon_at_monet's_garden.gif" width="100" height="100">
 
 Prompt: An astronaut dancing on Mars  
-![me](https://github.com/cyruss081115/Generate_video_with_diffusion/blob/main/gif/astronaut.gif)
+<img src="https://github.com/cyruss081115/Generate_video_with_diffusion/blob/main/gif/astronaut.gif" width="100" height="100">
+
 
 Prompt: A house in the woods, winter scene  
-![me](https://github.com/cyruss081115/Generate_video_with_diffusion/blob/main/gif/house_in_winter.gif)
+<img src="https://github.com/cyruss081115/Generate_video_with_diffusion/blob/main/gif/house_in_winter.gif" width="100" height="100">
 
 Prompt: A dragon spitting fire, epic fantasy  
-![me](https://github.com/cyruss081115/Generate_video_with_diffusion/blob/main/gif/dragon_spitting_fire.gif)
+<img src="https://github.com/cyruss081115/Generate_video_with_diffusion/blob/main/gif/dragon_spitting_fire.gif" width="100" height="100">
 
 Prompt: Beautiful sunset at the beach  
-![me](https://github.com/cyruss081115/Generate_video_with_diffusion/blob/main/gif/sunset.gif)
+<img src="https://github.com/cyruss081115/Generate_video_with_diffusion/blob/main/gif/sunset.gif" width="100" height="100">
